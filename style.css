@@ -19,7 +19,7 @@ header{
     top:0;
     left:0;
     z-index:1000;
-    background:rgba(173, 216, 230, 0.6);
+    background:rgba(135, 206, 235, 0.6);
     backdrop-filter:blur(8px);
     display:flex;
     justify-content:space-between;
